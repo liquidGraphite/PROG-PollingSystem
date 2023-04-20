@@ -1,0 +1,4 @@
+CandidateA 14
+CandidateB 6
+CandidateC 5
+CandidateD 2
